@@ -11,8 +11,8 @@ from email.mime.text import MIMEText
 # Email Configuration
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT_SSL = 465
-EMAIL_ADDRESS = 'madhusiddardhakala@gmail.com'  # Your email address
-EMAIL_PASSWORD = 'ocdc omse gubt vrbe'  # Use the app password if 2FA is enabled
+EMAIL_ADDRESS = 'spam38389@gmail.com'  # Your email address
+EMAIL_PASSWORD = 'bgrk wkaz ukuo uxcu'  # Use the app password if 2FA is enabled
 
 # Function to send spam notification email
 def send_spam_notification(recipient_email, message_text):
